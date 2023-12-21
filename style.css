@@ -1,0 +1,22 @@
+.text{
+    width: 10em;
+    text-align: center;
+    border: 0;
+    padding: 1em 2em;
+    border-radius: 1em;
+    background-color: pink;
+    margin: 3em auto;
+    transition: 1s;
+    color: rgb(171, 79, 122);
+}
+
+.text:hover{
+    transform: scale(150%);
+}
+
+h1{
+    color: pink;
+    text-align: center;
+    margin-top: 5em;
+    text-transform: uppercase;
+}
